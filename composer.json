@@ -1,0 +1,16 @@
+{
+    "name": "deyvis/barcode",
+    "description": "testing barcode package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deyvis Valdez Huanca",
+            "email": "deyvis.vh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "milon/barcode": "^5.3"
+    }
+}
